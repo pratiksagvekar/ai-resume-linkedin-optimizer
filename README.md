@@ -34,9 +34,20 @@ No UI. No app. Focused on **prompt engineering quality**.
 
 ## 🧪 Sample Prompt Used
 
-### System Prompt
+You are an expert ATS resume writer and LinkedIn profile strategist.
+Your job is to optimize resumes for specific job roles while keeping content honest, ATS-safe, and impact-driven.
+Never fabricate experience.
+Use strong action verbs and quantified impact where possible.
 
-### User Prompt
+
+### Output Validation & Refinement Rules
+Before finalizing output:
+- Do not fabricate company names, job titles, or work experience.
+- If experience is project-based, clearly label it as self-initiated or academic.
+- Prefer honest capability statements over exaggerated claims.
+- Flag assumptions made due to missing input data.
+
+
 
 <PASTE RESUME HERE>
 
@@ -84,54 +95,32 @@ LinkedIn: <add link>
 
 ## 🔍 Sample Output
 
-1. Optimized Resume Bullet Points (ATS-Friendly)
+### Optimized Resume Bullets (Project-Based, ATS-Safe)
 
-These bullets replace passive language with "Action Verb + Task + Result/Metric" structures.
+**Generative AI Prompt Engineering Projects | Self-Initiated**
 
-Experience: AI Prompt Writer | Nexus GenAI Solutions (Remote)
+- Designed and refined structured prompts for resume optimization and content generation tasks, reducing manual editing time by ~30% in controlled test cases.
 
-Engineered and refined complex prompts for marketing use cases, reducing content generation time by approximately 30% for the team.
+- Conducted prompt stress-testing (red-teaming) to identify hallucinations, ambiguity, and bias in LLM outputs, improving response consistency through iterative refinements.
 
-Conducted systematic Red-Teaming on LLM outputs to identify hallucinations and bias, documenting bugs for the developer team to improve model accuracy.
+- Built basic Python scripts to automate prompt testing and compare outputs across multiple inputs.
 
-Executed Python scripts to automate repetitive data entry tasks, streamlining the prompt testing workflow.
+- Documented prompt logic, inputs, and outputs in GitHub repositories to ensure reproducibility and clarity.
 
-Collaborated with cross-functional teams to integrate generative AI tools into daily operations, acting as the primary point of contact for troubleshooting.
+---
 
-Experience: Content Creator | Creative Pulse Agency (Mumbai)
+### Missing Skills Identified (For GenAI Intern Role)
 
-Integrated Generative AI workflows (ChatGPT, Midjourney) into the content pipeline, accelerating scriptwriting and asset creation processes.
+- Prompt Engineering Techniques: Few-Shot, Zero-Shot, Chain-of-Thought (CoT)
+- Python for scripting and automation
+- LLM APIs (OpenAI / Gemini / Hugging Face basics)
+- Git & GitHub version control
 
-Produced and edited high-engagement video content and blogs, consistently meeting strict client deadlines and quality standards.
+---
 
-Analyzed social media metrics to adjust content strategies, resulting in increased audience engagement across platforms.
+### LinkedIn “About” Section (Excerpt)
 
-Experience: Sales Executive | BrightStar Tech (Pune)
+B.Tech Computer Science Engineering student with a growing focus on Generative AI and Large Language Models (LLMs). I work on prompt engineering projects that explore how structured prompting and iteration can improve output quality, reliability, and usability.
 
-Note: Keep this section brief to save space for technical skills/projects.
-
-Managed client relationships and resolved technical inquiries, maintaining a high satisfaction rate through effective communication.
-
-Leveraged Excel for data management and sales tracking, consistently meeting quarterly performance targets.
-
-2. Missing But Important Skills
-
-To be competitive for a GenAI Intern role, you need to bridge the gap between "using tools" and "building with tools." Add these if you have even basic familiarity, or start learning them immediately:
-
-Prompting Techniques: Explicitly list techniques you know (e.g., Chain-of-Thought (CoT), Few-Shot Prompting, Zero-Shot, RAG basics).
-
-Technical Stack: Instead of "little bit of Python," list: Python (Pandas, NumPy basics) or Python for Scripting.
-
-APIs: Mention OpenAI API or Hugging Face if you have used them to run your scripts.
-
-Version Control: Git/GitHub is essential for any tech intern role.
-
-
-3. Professional LinkedIn “About” Section
-
-This narrative frames your sales background as an asset for communication, while focusing heavily on your new technical direction.
-
-Headline: Aspiring GenAI Engineer | B.Tech CSE | Prompt Engineering & LLM Enthusiast
-
-About Section: B.Tech Computer Science graduate with a passion for Large Language Models (LLMs) and Generative AI. I am currently pivoting into AI development, combining a strong foundation in Prompt Engineering with practical Python scripting experience.
+Alongside my technical learning, I bring experience from media and content roles, where I actively used AI tools to improve ideation speed and workflow efficiency. This combination helps me think from both a technical and user-experience perspective.
 
