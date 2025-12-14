@@ -81,3 +81,57 @@ Pratik Sagvekar
 CS Student | GenAI & Prompt Engineering  
 LinkedIn: <add link>
 
+
+## 🔍 Sample Output
+
+1. Optimized Resume Bullet Points (ATS-Friendly)
+
+These bullets replace passive language with "Action Verb + Task + Result/Metric" structures.
+
+Experience: AI Prompt Writer | Nexus GenAI Solutions (Remote)
+
+Engineered and refined complex prompts for marketing use cases, reducing content generation time by approximately 30% for the team.
+
+Conducted systematic Red-Teaming on LLM outputs to identify hallucinations and bias, documenting bugs for the developer team to improve model accuracy.
+
+Executed Python scripts to automate repetitive data entry tasks, streamlining the prompt testing workflow.
+
+Collaborated with cross-functional teams to integrate generative AI tools into daily operations, acting as the primary point of contact for troubleshooting.
+
+Experience: Content Creator | Creative Pulse Agency (Mumbai)
+
+Integrated Generative AI workflows (ChatGPT, Midjourney) into the content pipeline, accelerating scriptwriting and asset creation processes.
+
+Produced and edited high-engagement video content and blogs, consistently meeting strict client deadlines and quality standards.
+
+Analyzed social media metrics to adjust content strategies, resulting in increased audience engagement across platforms.
+
+Experience: Sales Executive | BrightStar Tech (Pune)
+
+Note: Keep this section brief to save space for technical skills/projects.
+
+Managed client relationships and resolved technical inquiries, maintaining a high satisfaction rate through effective communication.
+
+Leveraged Excel for data management and sales tracking, consistently meeting quarterly performance targets.
+
+2. Missing But Important Skills
+
+To be competitive for a GenAI Intern role, you need to bridge the gap between "using tools" and "building with tools." Add these if you have even basic familiarity, or start learning them immediately:
+
+Prompting Techniques: Explicitly list techniques you know (e.g., Chain-of-Thought (CoT), Few-Shot Prompting, Zero-Shot, RAG basics).
+
+Technical Stack: Instead of "little bit of Python," list: Python (Pandas, NumPy basics) or Python for Scripting.
+
+APIs: Mention OpenAI API or Hugging Face if you have used them to run your scripts.
+
+Version Control: Git/GitHub is essential for any tech intern role.
+
+
+3. Professional LinkedIn “About” Section
+
+This narrative frames your sales background as an asset for communication, while focusing heavily on your new technical direction.
+
+Headline: Aspiring GenAI Engineer | B.Tech CSE | Prompt Engineering & LLM Enthusiast
+
+About Section: B.Tech Computer Science graduate with a passion for Large Language Models (LLMs) and Generative AI. I am currently pivoting into AI development, combining a strong foundation in Prompt Engineering with practical Python scripting experience.
+
